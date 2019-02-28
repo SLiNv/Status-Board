@@ -461,7 +461,7 @@ Template.register.events({
           }
           else {
             // success
-            var subject = 'HackRPI 2016 Registration Complete!'
+            var subject = 'HackRPI 2019 Registration Complete!'
             Meteor.call('sendEmail', 
               email, 
               subject, 
