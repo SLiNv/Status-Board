@@ -16,8 +16,8 @@
 	
 	"mail_url": "",
 
-	"default_admin_username": "",
-	"default_admin_password": "",
+	"default_admin_username": "admin",
+	"default_admin_password": "admin",
 
 	"github_clientId": "",
 	"github_secret": "",
