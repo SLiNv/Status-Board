@@ -1,6 +1,6 @@
 Hi,
 
-You did it! You registered for the HackRPI 2016. It's going to be the best one yet! Thank you for volunteering to be a mentor! As a mentor you are automatically accepted to HackRPI. If you are not one of our sponsors, you should reach out to us and introduce yourself! Remember, you are on your own for transporting yourself to HackRPI.
+You did it! You registered for the HackRPI 2019. It's going to be the best one yet! Thank you for volunteering to be a mentor! As a mentor you are automatically accepted to HackRPI. If you are not one of our sponsors, you should reach out to us and introduce yourself! Remember, you are on your own for transporting yourself to HackRPI.
 
 When you arrive at HackRPI, see one of our volunteers to check-in in order to activate your mentor status. Here's how our mentor system works:
 
@@ -15,7 +15,7 @@ If you run into any problems, just let one of the organizers know. (You can also
 
 In the meantime,
  - Follow us on Twitter @gohackrpi where will post event updates [https://twitter.com/gohackrpi].
- - Like our Facebook page to talk with others going to HackRPI 2016 [https://facebook.com/hackrpi].
+ - Like our Facebook page to talk with others going to HackRPI 2019 [https://facebook.com/hackrpi].
  - Admire our last-minute technological preparations on Github [https://github.com/hack-rpi].
  - Stay awesome.
 
