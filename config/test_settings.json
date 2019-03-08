@@ -1,0 +1,38 @@
+{
+
+	"public": {
+		"event_state": "registration",
+		"event_start": "",
+		"event_end": "",
+
+		"languages": [],
+		"frameworks": [],
+		"apis": [],
+		"buses": [],
+		"diet": []
+	},
+
+	"root_url": "",
+	
+	"mail_url": "",
+
+	"default_admin_username": "",
+	"default_admin_password": "",
+
+	"github_clientId": "",
+	"github_secret": "",
+
+	"twilio_SID": "",
+	"twilio_token": "",
+	"twilio_from_num": "",
+
+	"kadira": {
+		"appId": "",
+		"appSecret": ""
+	},
+
+	"secret_key": "",
+	
+	"checkin_code": ""
+
+}
